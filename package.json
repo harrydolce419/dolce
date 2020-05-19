@@ -1,0 +1,22 @@
+{
+  "name": "dolce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrydolce419/dolce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harrydolce419/dolce/issues"
+  },
+  "homepage": "https://github.com/harrydolce419/dolce#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
